@@ -1,0 +1,20 @@
+[
+    {
+        "name": "Luis",
+        "password": "Z0FBQUFBQm5OVnpFajdMTWZaTmcyZFhINWNudEFtUnc1T2I4elRmR1c0aFdXVWlSdUQwZXhwbEJJeThPbXJSNFE4cFBHWkYwYVZMbFNuNGd5VFNyTUJCbDFDYkZGbTdOX2c9PQ==",
+        "attributes": {
+            "id": 138,
+            "level": 9,
+            "cookies": 80
+        }
+    },
+    {
+        "name": "steven",
+        "password": "Z0FBQUFBQm5OVnY5OVdlWTRXdWNxaDNVX1JBa0NObjdJelRUYk5kZEJtZjJFSTVoRF95N3ZHaVo1Q1dGZ1VfRW5aUjNrYXdJSGdfWkpqRXlSclFsTGFaMG1Oa3gwNGpfeFE9PQ==",
+        "attributes": {
+            "id": 108,
+            "level": 1,
+            "cookies": 0
+        }
+    }
+]
